@@ -1,0 +1,12 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Terraform vars (hier nicht sensitiv)
+*.tfvars
+*.tfvars.json
+
+# CLI configs
+.terraform.lock.hcl
