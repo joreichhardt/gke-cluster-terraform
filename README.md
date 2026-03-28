@@ -1,6 +1,6 @@
 ## Terraform Google GKE
 ### Enable container API first
-    - gcloud services enable container.googleapis.com --project=PROJECT_ID
+    gcloud services enable container.googleapis.com --project=PROJECT_ID
 
 Starts a 3 node minimal GKE cluster in GCP
 
