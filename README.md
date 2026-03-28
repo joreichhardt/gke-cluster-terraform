@@ -4,12 +4,12 @@
 
 Starts a 3 node minimal GKE cluster in GCP
 
-    - terraform init
-    - terraform plan
-    - terraform apply
+    terraform init
+    terraform plan
+    terraform apply
 
 To destroy
 
-    - terraform destroy
+    terraform destroy
 
 
