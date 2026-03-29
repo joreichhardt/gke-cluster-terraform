@@ -26,7 +26,6 @@ flowchart TD
 
 Optional extensions:
 - Cloud DNS
-- Load Balancer / Ingress
 - Monitoring (Prometheus / Grafana)
 - CI/CD (GitHub Actions)
 
