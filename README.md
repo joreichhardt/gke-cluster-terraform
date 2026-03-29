@@ -122,11 +122,11 @@ machine_type = "e2-medium"
 
 ## 💸 Cost Considerations
 
-- GKE cluster management fee (if applicable)
+- GKE cluster management
 - Compute Engine instances (node pool)
 - Network egress costs
 
-A minimal cluster typically costs around **$20–50/month**, depending on region, machine type, and usage.
+A minimal cluster typically costs around **20–50€/month**, depending on region, machine type, and usage.
 
 ---
 
@@ -149,7 +149,6 @@ A minimal cluster typically costs around **$20–50/month**, depending on region
 
 ## 📈 Next Steps
 
-- Add Ingress Controller (NGINX or GKE Ingress)
 - Deploy applications via Helm
 - Integrate CI/CD with GitHub Actions
 - Add monitoring with Prometheus and Grafana
